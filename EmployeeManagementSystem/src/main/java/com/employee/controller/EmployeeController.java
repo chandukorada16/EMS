@@ -22,7 +22,7 @@ import com.employee.repository.EmployeeRepository;
 
 //@CrossOrigin(origins = "http://localhost:4200")
 @RestController
-@RequestMapping("/api/v1/")
+@RequestMapping("/api/v1/myapplication")
 public class EmployeeController {
 	
 	@Autowired
